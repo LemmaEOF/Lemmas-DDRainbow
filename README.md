@@ -14,12 +14,13 @@ I'm not satisfied with the standard DDR Rainbow noteskin for Stepmania. It only 
 ## Versions
 Currently I've made versions of the noteskin for Stepmania 5/ITGMania, with a standard and reverse variant. Sadly, due to how noteskins work, it isn't really feasible to have a single noteskin support both at the same time while still looking good. There might be a way to do it but I'll have to keep looking. I'm also planning to make a NotITG variant soon!
 
+There are also colorblind-friendly versions, which should be more readable for people protanopia, deuteranopia, or tritanopia. Let me know if there's anything I can do to improve them!
+
 ## Installation
 Just like any other noteskin, drop the folders for your game version into `NoteSkins/dance` inside the game directory. Enjoy!
 
 ## Future Plans (may not be implemented, depends on my energy)
 - NotITG variant
-- Colorblind variants
 - Custom mine
 - Figure out some way to make the noteskins work bidirectionally
 - Solo rolls
