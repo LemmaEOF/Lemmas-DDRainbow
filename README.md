@@ -17,8 +17,9 @@ Currently I've made versions of the noteskin for Stepmania 5/ITGMania, with a st
 ## Installation
 Just like any other noteskin, drop the folders for your game version into `NoteSkins/dance` inside the game directory. Enjoy!
 
-## Future Plans (may not be implemented)
+## Future Plans (may not be implemented, depends on my energy)
 - NotITG variant
+- Colorblind variants
 - Custom mine
 - Figure out some way to make the noteskins work bidirectionally
 - Solo rolls
